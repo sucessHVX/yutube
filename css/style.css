@@ -1,0 +1,11 @@
+@import 'reset.css';
+
+@media screen and (max-width: 500px) {
+  header {
+    display: flex;
+  }
+
+  ul {
+    display: flex;
+  }
+}
